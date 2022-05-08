@@ -5,8 +5,8 @@ Welcome. Feel free to use these custom templates for your reMarkable 1 paper tab
 
 ## Prerequisites
 
-To export PNG from SVG use (Inkscape)[https://inkscape.org].
-To rotate landscape (LS) files use (Image Magick)[https://imagemagick.org/].
+To export PNG from SVG use [Inkscape](https://inkscape.org).
+To rotate landscape (LS) files use [Image Magick](https://imagemagick.org/).
 
 
 ## Build PNGs
@@ -33,7 +33,7 @@ Ensure both tools are properly installed and available system wide from Windows'
 ! Be careful when changing system files. You can break your system. Use backups.
 
 To install a custom template on your device you'll need to browse its files. 
-To find out how to do that see [https://remarkablewiki.com/tech/ssh].
+To find out how to do that see [reMarkable Wiki](https://remarkablewiki.com/tech/ssh).
 
 To access to the files of your device, use a SFTP tool, like WinSCP, to enter the file system of your reMarkable. 
 
