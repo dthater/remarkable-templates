@@ -1,0 +1,9 @@
+{
+  "name": "Battleship",
+  "filename": "LS Battleship",
+  "landscape": true,
+  "iconCode": "\ue9ae",
+  "categories": [
+	"Games"
+  ]
+}
